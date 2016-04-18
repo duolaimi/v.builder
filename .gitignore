@@ -1,0 +1,16 @@
+.idea/
+.*.swp
+.*.swo
+._*
+.DS_Store
+/Debug/
+/debug/
+.idea/
+.svn/
+.smbdelete*
+*.sublime*
+.sass-cache
+.htaccess
+node_modules/*
+node_modules
+*/map/*.json
